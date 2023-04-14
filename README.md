@@ -6,6 +6,7 @@ This is my GitHub portfolio to showcase some of my projects in R, Python, Tablea
 - **renewableenergyinvestments**: data wrangling, regression, unsupervised machine learning in R, predicting renewable energy investments in 2020, part of Rice Datathon 2023
 - **pokemonislegendary**: data wrangling, classification, regression using Python, predicting whether or not a pokemon is legendary based on given average stats, group project for Rice Data Science Club
 - **data-vis-R-final-ibm-coursera**: Shiny dashboard to look at trends in demographics, final project for online data visualization for R course
+- **movietrends**: storytelling with data visualizations in R, final project for effective data visualization course
 - **houstoncrimecovid**: data wrangling and data visualizations in R, investigating if there was a relationship between crime and COVID-19 rates in Houston, final group project for STAT405
 - **playlistanalysis**: Tableau dashboard to analyze playlist data, data retrieval with Spotify API, personal project
 - **myspotifydata**: Tableau dashboard to summarize my Spotify data, personal project 
