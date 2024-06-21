@@ -1,4 +1,4 @@
-Hello! My name is Kelly Zeng, and my pronouns are she/her. I am currently a second year student at Rice University in Houston, TX. I am majoring in Statistics and double minoring in Data Science and Financial Computation and Modeling.
+Hello! My name is Kelly Zeng, and my pronouns are she/her. I am currently a first year MSTAT student at Rice University in Houston, TX. I am interested in a career in data science and machine learning.
 
 This is my GitHub portfolio to showcase some of my projects in R, Python, Tableau, and SQL related to data science. Here is a brief summary of each of my repos listed from most to least relevant.
 
