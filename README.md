@@ -1,8 +1,4 @@
-Hello! My name is Kelly Zeng, and my pronouns are she/her. I am currently a first year MSTAT student at Rice University in Houston, TX. I am interested in a career in data science and machine learning.
-
-This is my GitHub portfolio to showcase some of my projects in R, Python, Tableau, and SQL. Here is a brief summary of each of my repos listed from most to least relevant.
-
-- **spotifysongrecs**: Spotify song recommendation system using 
+- **spotifysongrecs**: Spotify song recommendation system using neural networks, autoencoders, mahalanobis distance, and Tkinter GUI
 - **spotifypopularity**: full regression analysis using R, looking at what attributes of songs contribute to the popularity of the song, final project for STAT410
 - **renewableenergyinvestments**: data wrangling, regression, unsupervised machine learning in R, predicting renewable energy investments in 2020, part of Rice Datathon 2023
 - **pokemonislegendary**: data wrangling, classification, regression using Python, predicting whether or not a pokemon is legendary based on given average stats, group project for Rice Data Science Club
