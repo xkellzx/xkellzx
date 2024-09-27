@@ -1,4 +1,4 @@
-- **spotifysongrecs**: Spotify song recommendation system using neural networks, autoencoders, mahalanobis distance, and Tkinter GUI
+- **spotifysongrecs**: Spotify song recommendation system using neural networks, autoencoders (TensorFlow/Keras), mahalanobis distance, and Tkinter GUI
 - **spotifypopularity**: full regression analysis using R, looking at what attributes of songs contribute to the popularity of the song, final project for STAT410
 - **renewableenergyinvestments**: predicting renewable energy investments in 2020, part of Rice Datathon 2023
 - **pokemonislegendary**: predicting whether or not a pokemon is legendary based on given average stats, group project for Rice Data Science Club
